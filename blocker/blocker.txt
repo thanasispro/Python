@@ -1,4 +1,0 @@
-C:\Windows\System32\drivers\etc
-
-192.168.1.3 http://www.newsbomb.gr/
-192.168.1.3 http://www.newsit.gr/
